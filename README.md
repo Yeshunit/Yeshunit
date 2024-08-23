@@ -6,4 +6,4 @@ I have a knack for turning raw data into actionable insights that help organizat
 🔍 Focus Areas: Data Analysis, Data Visualization, Excel Dashboards, Power BI, SQL Queries.
 📊 Building New Projects ... Learning ML
 🚀 Tools & Technologies: Excel (Advanced Formulas, Pivot Tables, Dashboards), Power BI, SQL, Python (Pandas, NumPy), Data Cleaning.
-🌐 Connect: Email
+🌐 Connect: [Yeshusingh005@gmail.com](url)
