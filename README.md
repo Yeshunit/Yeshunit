@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yeshu Singh🌼</h1>
-<h3 align="center">
+<h4 align="left" style="font-size: 16px;">
   👋 Welcome! I'm a passionate Data Analyst with a knack for transforming data into actionable insights.<br>
   📊 Expert in data visualization, advanced Excel, Power BI, and SQL.<br>
   🚀 Skilled at creating interactive dashboards and simplifying complex data.<br>
   🛠️ Proficient in Excel (formulas, pivot tables, dashboards), Power BI, and SQL queries.<br>
   🎯 Focused on driving business decisions and optimizing processes through data analysis.<br>
   🌱 Currently diving into Machine Learning to expand my analytical toolkit.
-</h3>
+</h4>
+
 
 🔍 **Focus Areas:** Data Analysis, Data Visualization, Excel Dashboards, Power BI, SQL Queries.  
 📊 **Building New Projects ... Learning ML**  
