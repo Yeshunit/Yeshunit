@@ -37,8 +37,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda logo" width="40" height="40"/> 
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="IMAGE_URL" alt="Power BI logo" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Power_BI_Logo.svg" alt="Power BI logo" width="40" height="40"/> 
 </a>
+
 
 
 
