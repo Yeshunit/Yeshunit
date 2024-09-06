@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yeshu Singh🌼</h1>
+<h1 align="center">Hi 👋, I'm Yeshu🌼</h1>
 <h4 align="left" style="font-size: 16px;">
   👋 Welcome! I'm a passionate Data Analyst with a knack for transforming data into actionable insights.<br>
   📊 Expert in data visualization, advanced Excel, Power BI, and SQL.<br>
@@ -8,11 +8,7 @@
   🌱 Currently diving into Machine Learning to expand my analytical toolkit.
 </h4>
 
-
-🔍 **Focus Areas:** Data Analysis, Data Visualization, Excel Dashboards, Power BI, SQL Queries.  
-📊 **Building New Projects ... Learning ML**  
-🚀 **Tools & Technologies:** Excel (Advanced Formulas, Pivot Tables, Dashboards), Power BI, SQL, Python (Pandas, NumPy), Data Cleaning. 
-- ⚡ Fun fact **Life is Beautiful.**
+- ⚡ Fun fact **Data analysts: turning coffee into charts and chaos into clarity!**
 <p>
 <a href="https://www.hackerrank.com/profile/yeshusingh005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yeshusingh005" height="30" width="40" /></a>
 </p>
