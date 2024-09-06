@@ -16,7 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:yeshusingh005@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Gmail_Icon_%282013-2020%29.svg" alt="yeshusingh005@gmail.com" height="30" width="40" /></a>
+  <a href="mailto:yeshusingh005@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
+
 <a href="https://www.hackerrank.com/profile/yeshusingh005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yeshusingh005" height="30" width="40" /></a>
 </p>
 
