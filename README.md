@@ -5,7 +5,7 @@
   🚀 Skilled at creating interactive dashboards and simplifying complex data.<br>
   🛠️ Proficient in Excel (formulas, pivot tables, dashboards), Power BI, and SQL queries.<br>
   🎯 Focused on driving business decisions and optimizing processes through data analysis.<br>
-  🌱 Currently diving into Machine Learning to expand my analytical toolkit.
+  🌱 Currently diving into Machine Learning to expand my analytical toolkit.<br>
 </h4>
 
 - ⚡ Fun fact **Data analysts: turning coffee into charts and chaos into clarity!**
