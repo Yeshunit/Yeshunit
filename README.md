@@ -8,8 +8,7 @@
   🎯 Focused on driving business decisions and optimizing processes through data analysis.<br>
   🌱 Currently diving into Machine Learning to expand my analytical toolkit.<br>
 </h4>
-
-- ⚡ Fun fact **Data analysts: turning coffee into charts and chaos into clarity!**
+<h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://www.hackerrank.com/profile/yeshusingh005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yeshusingh005" height="30" width="40" /></a>
 </p>
