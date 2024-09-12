@@ -8,7 +8,6 @@
   🎯 Focused on driving business decisions and optimizing processes through data analysis.<br>
   🌱 Currently diving into Machine Learning to expand my analytical toolkit.<br>
 </h4>
-<img align= "right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
 - ⚡ Fun fact **Data analysts: turning coffee into charts and chaos into clarity!**
 <p>
