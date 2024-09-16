@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeshu 📊</h1>
-<img align= "right" alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+<img align= "right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 <h4 align="left" style="font-size: 16px;">
   👋 Welcome! I'm a passionate Data Analyst with a knack for transforming data into actionable insights.<br>
   📊 Expert in data visualization, advanced Excel, Power BI, and SQL.<br>
