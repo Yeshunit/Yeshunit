@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeshu 📊</h1>
-<img align= "right" alt="coding" width="400" src="[https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU](https://www.bing.com/images/search?view=detailV2&ccid=kRaLSHP2&id=E5EE4B49E2DDD9439ACC4FA1A0D42A631ECCE766&thid=OIP.kRaLSHP2ZZs-n9_kuJzYZAHaFj&mediaurl=https%3A%2F%2Fcapturly.com%2Fblog%2Fwp-content%2Fuploads%2F2018%2F02%2FData-Website-Analytics.gif&exph=600&expw=800&q=Analysing+Data+GIF&simid=607995609963106791&FORM=IRPRST&ck=958CB80F05F82B9459EB88336BDF4792&selectedIndex=11&itb=0&cw=1100&ch=532&ajaxhist=0&ajaxserp=0)">
+<img align= "right" alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 <h4 align="left" style="font-size: 16px;">
   👋 Welcome! I'm a passionate Data Analyst with a knack for transforming data into actionable insights.<br>
   📊 Expert in data visualization, advanced Excel, Power BI, and SQL.<br>
