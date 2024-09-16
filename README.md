@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yeshu 📊</h1>
 <img align= "right" alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 <h4 align="left" style="font-size: 16px;">
-👋 Welcome! I'm a passionate Data Analyst with a knack for transforming data into actionable insights.<br>
-📊 Expert in data visualization, advanced Excel, Power BI, and SQL.<br>
-🚀 Skilled at creating interactive dashboards and simplifying complex data.<br>
-🛠️ Proficient in Excel (formulas, pivot tables, dashboards), Power BI, and SQL queries.<br>
-🎯 Focused on driving business decisions and optimizing processes through data analysis.<br>
-🌱 Currently diving into Machine Learning to expand my analytical toolkit.<br>
+  👋 Welcome! I'm a passionate Data Analyst with a knack for transforming data into actionable insights.<br>
+  📊 Expert in data visualization, advanced Excel, Power BI, and SQL.<br>
+  🚀 Skilled at creating interactive dashboards and simplifying complex data.<br>
+  🛠️ Proficient in Excel (formulas, pivot tables, dashboards), Power BI, and SQL queries.<br>
+  🎯 Focused on driving business decisions and optimizing processes through data analysis.<br>
+  🌱 Currently diving into Machine Learning to expand my analytical toolkit.<br>
 </h4>
 <h3 align="left">Connect with me:</h3>
 <p>
