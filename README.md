@@ -34,7 +34,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="40" height="40"/> 
 </a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda logo" width="40" height="40"/> 
+    <img src="https://www.clipartmax.com/png/middle/234-2342908_anaconda-anaconda-python-logo.png" alt="Anaconda logo" width="40" height="40"/> 
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://logos-marcas.com/wp-content/uploads/2022/01/Microsoft-Power-BI-Logo.png" alt="Power BI logo" width="40" height="40"/> 
